@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyASlH_681VywXla1pGg3YeknoI9_oAq8rc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>701877180041</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CVS.iOSCrashlyticsChallenge</string>
+	<key>PROJECT_ID</key>
+	<string>ioscrashlyticschallenge</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ioscrashlyticschallenge.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:701877180041:ios:08e99bb7f726812b9a5858</string>
+</dict>
+</plist>
